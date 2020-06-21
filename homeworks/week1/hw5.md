@@ -10,7 +10,7 @@
 
 1. client browser -> sent a request to google server
 2. google server -> find a string "JaveScript" from database
-3. google server -> sent a respond to client browser
+3. google server -> sent a response to client browser
 
 
 ## 請列舉出 3 個「課程沒有提到」的 command line 指令並且說明功用
